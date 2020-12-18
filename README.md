@@ -9,4 +9,6 @@
 
 ##### Languages and tools I use:
 
-<img align="left" alt="Jupyter logo" width="26px" src="images\Jupyter-logo.png" />
+<img align="left" alt="atom-logo" width="30px" src="images\atom-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="left" alt="Jupyter-logo" width="30px" src="images\Jupyter-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="left" alt="gnuplot-logo" width="30px" src="images\gnuplot-logo.png" />
