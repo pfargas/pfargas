@@ -1,8 +1,12 @@
-### Hello there! I'm Pau
+### Hello there!:wave: I'm Pau
 
  ___
 
-I'm a phyics student interested in IT and computation who tries to learn programming for myself.
+:books: I'm a phyics student interested in IT and computation who tries to learn programming for myself.
 
-- I'm currently learning gnuplot :raised_hands:
-- I'm looking to get into the computation world
+- I'm currently learning gnuplot:chart_with_upwards_trend:
+- I'm looking to get into the computation world :computer:
+
+##### Languages and tools I use:
+
+[<img align="left" alt="Jupyter logo" width="26px" src="C:\Users\pfarg\OneDrive\Imágenes\Github images\Jupyter logo.png" />]
