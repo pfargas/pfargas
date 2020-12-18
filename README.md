@@ -9,4 +9,4 @@
 
 ##### Languages and tools I use:
 
-[<img align="left" alt="Jupyter logo" width="26px" src="C:\Users\pfarg\OneDrive\Imágenes\Github images\Jupyter logo.png" />]
+<img align="left" alt="Jupyter logo" width="26px" src="images\Jupyter-logo.png" />
