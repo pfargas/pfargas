@@ -9,6 +9,8 @@
 
 #### Languages and tools I use:
 
+
+![Atom]("images\atom-logo.png" "Atom text editor")
 <img align="left" alt="atom-logo" width="30px" src="images\atom-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="left" alt="Jupyter-logo" width="30px" src="images\Jupyter-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="left" alt="matlab-logo" width="30px" src="images\matl-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
