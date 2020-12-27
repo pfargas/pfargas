@@ -4,7 +4,7 @@
 
 :books: I'm a physics student interested in IT and computation who tries to learn programming for myself.
 
-- I'm currently learning gnuplot:chart_with_upwards_trend: and beginning with `Opencv` in `Python`<img title="opencv-logo" width="20px" src="images\opencv-logo.png" />
+- I'm currently learning gnuplot:chart_with_upwards_trend: and beginning with `Opencv` in `Python`:thought_balloon:
 - I'm looking to get into the computation world :computer:
 
 #### Languages and tools I use:
