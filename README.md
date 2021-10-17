@@ -17,6 +17,7 @@
 <img align="left" title="github-logo" height="30px" src="images\github-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="left" title="latex-logo" height="30px" src="images\latex-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="left" title="gnuplot-logo" height="30px" src="images\gnuplot-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="left" title="fortran-logo" height="30px" src="images\Fortran-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Languages and tools I know the basics:
 
