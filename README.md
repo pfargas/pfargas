@@ -2,7 +2,7 @@
 
  ___
 
-:books: I'm a third year physics student interested in IT, computation and quantum who tries to learn about those topics by myself.
+:books: I'm a third year physics student interested in IT, computation and quantum who tries to learn about those topics by himself.
 
 - I'm currently learning UnrealEngine:chart_with_upwards_trend: and beginning with `Qiskit` in `Python`:thought_balloon:
 - I'm looking to get into the Quantum science and technologies world :computer:
