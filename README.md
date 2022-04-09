@@ -2,10 +2,10 @@
 
  ___
 
-:books: I'm a physics student interested in IT and computation who tries to learn programming for myself.
+:books: I'm a third year physics student interested in IT, computation and quantum who tries to learn about those topics by myself.
 
-- I'm currently learning gnuplot:chart_with_upwards_trend: and beginning with `Opencv` in `Python`:thought_balloon:
-- I'm looking to get into the computation world :computer:
+- I'm currently learning UnrealEngine:chart_with_upwards_trend: and beginning with `Qiskit` in `Python`:thought_balloon:
+- I'm looking to get into the Quantum science and technologies world :computer:
 
 #### Languages and tools I use:
 
@@ -18,6 +18,7 @@
 <img align="left" title="latex-logo" height="30px" src="images\latex-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="left" title="gnuplot-logo" height="30px" src="images\gnuplot-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="left" title="fortran-logo" height="30px" src="images\Fortran-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--VSCode, UnrealEngine, Qiskit, Make logos visible (white background)-->
 
 #### Languages and tools I know the basics:
 
