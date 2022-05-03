@@ -20,7 +20,7 @@
 <img align="left" title="fortran-logo" height="30px" src="images\Fortran-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="left" title="Qiskti-logo" height="30px" src="images\Qiskit-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="left" title="UE-logo" height="30px" src="images\UE-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="left" title="VSCode-logo" height="20px" src="images\VSCode-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="left" title="VSCode-logo" height="-30px" src="images\VSCode-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 #### Languages and tools I know the basics:
