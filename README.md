@@ -2,10 +2,10 @@
 
  ___
 
-:books: I'm a physics student interested in IT and computation who tries to learn programming for myself.
+:books: I'm a physics student interested in IT and computation who tries to learn programming for myself. I'm strongly interested in the quantum world specially in quantum tech and quantum computation
 
-- I'm currently learning gnuplot:chart_with_upwards_trend: and beginning with `Opencv` in `Python`:thought_balloon:
-- I'm looking to get into the computation world :computer:
+- I'm currently learning Qiskit:chart_with_upwards_trend: and beginning with `UnrealEngine4` with `C++`:thought_balloon:
+- My goal is to get into the quantum tech world :computer:
 
 #### Languages and tools I use:
 
@@ -20,9 +20,8 @@
 <img align="left" title="fortran-logo" height="30px" src="images\Fortran-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="left" title="Qiskti-logo" height="30px" src="images\Qiskit-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="left" title="VSCode-logo" height="30px" src="images\VSCode-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="left" title="UE-logo" height="30px" src="images\UE-logo.png" />
 
-
+<img align="left" title="UE-logo" height="30px" src="images\UE-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Languages and tools I know the basics:
 
