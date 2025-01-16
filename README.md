@@ -1,32 +1,18 @@
-### Hello there!:wave: I'm Pau
+<h1 align="center">Hi 👋, I'm Pau</h1>
+<h3 align="center">A PhD student from Barcelona</h3>
 
- ___
+- 🔭 I’m currently working on **ML and quantum physics**
 
-:books: I'm a physics student interested in IT and computation who tries to learn programming for myself. I'm strongly interested in the quantum world specially in quantum tech and quantum computation
+- 🌱 I’m currently learning **Mathematics and CS**
 
-- I'm currently learning Qiskit:chart_with_upwards_trend: and beginning with `UnrealEngine4` with `C++`:thought_balloon:
-- My goal is to get into the quantum tech world :computer:
+- 📫 How to reach me **pfargasreixats@gmail.com**
 
-#### Languages and tools I use:
+- ⚡ Fun fact **I love a good cup of coffee**
 
-<img align="left" title="atom-logo" height="30px" src="images\atom-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="left" title="Jupyter-logo" height="30px" src="images\Jupyter-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="left" title="Python-logo" height="30px" src="images\python-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="left" title="Numpy-logo" height="30px" src="images\numpy-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="left" title="matlab-logo" height="30px" src="images\matl-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="left" title="github-logo" height="30px" src="images\github-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="left" title="latex-logo" height="30px" src="images\latex-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="left" title="gnuplot-logo" height="30px" src="images\gnuplot-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="left" title="fortran-logo" height="30px" src="images\Fortran-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="left" title="Qiskti-logo" height="30px" src="images\Qiskit-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="left" title="VSCode-logo" height="30px" src="images\VSCode-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/pau-fargas-reixats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pau-fargas-reixats" height="30" width="40" /></a>
+</p>
 
-<img align="left" title="UE-logo" height="30px" src="images\UE-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Languages and tools I know the basics:
-
-<img align="left" title="c-logo" height="30px" src="images\c-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="left" title="c++-logo" height="30px" src="images\c++-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="left" title="mySQL-logo" height="30px" src="images\mySQL-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="left" title="HTML-logo" height="30px" src="images\HTML-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="left" title="CSS-logo" height="30px" src="images\CSS-logo.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
